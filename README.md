@@ -50,6 +50,8 @@ g++ derleyicisi (GCC 7+)
 C++17 desteği
 
 
+
+
 🖥️ Ekran Görüntüsü:
 
 ╔══════════════════════════════════════════╗
@@ -89,6 +91,25 @@ C++17 desteği
 
 
 🛠️ Kullanılan Teknolojiler
+
+
+
+### Gereksinimler
+- g++ derleyicisi (GCC 7+)
+- C++17 desteği
+
+
+
+
+
+🛠️ Kullanılan Teknolojiler
+
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-Compiler-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Compatible-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-Compatible-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 
 

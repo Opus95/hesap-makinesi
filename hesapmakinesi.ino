@@ -64,7 +64,7 @@ void printHeader(const string& title) {
     clearScreen();
     cout << "\n";
     cout << "  ╔══════════════════════════════════════════╗\n";
-    cout << "  ║      MUHENDIS HESAP MAKINESI — C++       ║\n";
+    cout << "  ║       HESAP MAKINESI — C++       ║\n";
     cout << "  ╠══════════════════════════════════════════╣\n";
     cout << "  ║  " << left << setw(42) << title << "║\n";
     cout << "  ╚══════════════════════════════════════════╝\n\n";

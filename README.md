@@ -42,7 +42,11 @@ Uzunluk, alan, hacim, kütle, sıcaklık, hız, enerji, basınç
 
 🚀 Kurulum & Çalıştırma:
 Gereksinimler
+
+
 g++ derleyicisi (GCC 7+)
+
+
 C++17 desteği
 
 

@@ -55,14 +55,32 @@ C++17 desteği
   ╚══════════════════════════════════════════╝
 
   [1]  Temel Islemler
+
+
   [2]  Trigonometri
+
+
   [3]  Logaritma & Kuvvet
+
+
   [4]  Istatistik
+
+
   [5]  Sayi Sistemi Donusumleri
+
+
   [6]  Matris Islemleri (2x2 / 3x3)
+
+
   [7]  Kompleks Sayi Islemleri
+
+
   [8]  Birim Donusumleri
+
+
   [9]  Fiziksel & Matematiksel Sabitler
+
+
   [0]  Cikis
 
 

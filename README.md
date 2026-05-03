@@ -6,27 +6,45 @@ Modül
 İçerik
 ➕ Temel İşlemler
 Toplama, çıkarma, çarpma, bölme, kuvvet, mod, floor/ceil/round
+
+
 📐 Trigonometri
 sin, cos, tan ve tersleri, hiperbolik fonksiyonlar, derece/radyan desteği
+
+
 🔢 Logaritma & Kuvvet
 ln, log10, keyfi tabanlı log, e^x, karekök, faktöriyel, n. kök
+
+
 📊 İstatistik
 Ortalama, medyan, standart sapma, varyans, min/max, Q1/Q3
+
+
 💻 Sayı Sistemi
 Onluk ↔ İkilik / Sekizlik / Onaltılık dönüşümler
+
+
 🔲 Matris İşlemleri
 2x2 ve 3x3 toplama, çıkarma, çarpma, determinant, transpoze
+
+
 🌀 Kompleks Sayılar
 4 işlem, büyüklük, argüman, eşlenik, kuvvet
 📏 Birim Dönüşümleri
+
+
 Uzunluk, alan, hacim, kütle, sıcaklık, hız, enerji, basınç
 🔭 Fiziksel Sabitler
+
+
 π, e, φ, c, g, G, h, k, Nₐ, R ve daha fazlası
+
 
 🚀 Kurulum & Çalıştırma:
 Gereksinimler
 g++ derleyicisi (GCC 7+)
 C++17 desteği
+
 
 🖥️ Ekran Görüntüsü:
 
@@ -47,7 +65,9 @@ C++17 desteği
   [9]  Fiziksel & Matematiksel Sabitler
   [0]  Cikis
 
+
 🛠️ Kullanılan Teknolojiler
+
 
 
 
